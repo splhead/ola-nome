@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OlaNome</string>
+    <string name="insira_seu_nome">Insira seu nome</string>
+    <string name="ok">OK</string>
+    <string-array name="gender_array">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+</resources>
